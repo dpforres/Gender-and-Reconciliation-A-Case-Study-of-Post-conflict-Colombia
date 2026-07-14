@@ -30,7 +30,7 @@ library(GGally)
 library(broom)
 
 # Import laop_13_14_16_18
-lapop_13_14_16_18 <- read.csv("/Users/dylanforrester/Desktop/lapop_13_14_16_18.csv")
+lapop_13_14_16_18 <- read.csv("/Users//Desktop/lapop_13_14_16_18.csv")
 
 # Create assets index. Remove responses that are not 0 and 1 and get sum of possessions values to get a measurement for income
 cols_to_clean <- c("r4a", "r5", "r6", "r12", "r15")
