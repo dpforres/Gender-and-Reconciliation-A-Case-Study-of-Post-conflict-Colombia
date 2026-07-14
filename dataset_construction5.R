@@ -8,14 +8,14 @@ library(stringdist)
 
 #### Setwd
 
-setwd('/Users/dylanforrester/Desktop')
+setwd('/Users//Desktop')
 
 #### Upload Data
 
-lapop_2013 <- read_dta('/Users/dylanforrester/Desktop/Colombia_2013.dta')
-lapop_2014 <- read_dta('/Users/dylanforrester/Desktop/Colombia_2014.dta')
-lapop_2016 <- read_dta('/Users/dylanforrester/Desktop/Colombia_2016.dta')
-lapop_2018 <- read_dta('/Users/dylanforrester/Desktop/Colombia_2018.dta')
+lapop_2013 <- read_dta('/Users//Desktop/Colombia_2013.dta')
+lapop_2014 <- read_dta('/Users//Desktop/Colombia_2014.dta')
+lapop_2016 <- read_dta('/Users//Desktop/Colombia_2016.dta')
+lapop_2018 <- read_dta('/Users//Desktop/Colombia_2018.dta')
 
 #### Insert year column
 
@@ -307,7 +307,7 @@ lapop_13_14_16_18 <- lapop_rebel_joined %>%
   )
 
 #Export final dataset
-file_path <- "/Users/dylanforrester/Desktop/lapop_13_14_16_18.csv"  
+file_path <- "/Users//Desktop/lapop_13_14_16_18.csv"  
 
 # Export the dataset to CSV
 write.csv(lapop_13_14_16_18, file = file_path, row.names = FALSE)
