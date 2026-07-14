@@ -1,6 +1,6 @@
 [readme.txt](https://github.com/user-attachments/files/26348517/readme.txt)
 [readme.txt](https://github.com/user-attachments/files/26348517/readme.txt)
-#### Gender and Reconciliation: A Case Study of Post-conflict Colombia ####
+#### When Peace Feels Threatening: Gender, Security, and Ex-Combatant Reintegration in Colombia ####
 
 1. For replication of tables and graphs in manuscript,
 
