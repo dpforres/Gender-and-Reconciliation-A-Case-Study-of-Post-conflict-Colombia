@@ -4,7 +4,7 @@
 
 1. For replication of tables and graphs in manuscript,
 
-Run gender_reconciliation_manuscript_code
+Run main_manuscript_code
 
 2. Data is taken from Americas Barometer LAPOP surveys (2013-2018)
 
